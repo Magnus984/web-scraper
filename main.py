@@ -27,5 +27,5 @@ links = soup.find_all('link')
 
 # getting images
 images = soup.find_all('img')
-print(images)
+
   
